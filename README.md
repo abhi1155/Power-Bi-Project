@@ -36,8 +36,13 @@ Through insightful visualizations and data-driven analysis, this project aims to
 - Step 11 : We Have used Cards from visualization pane to show count for Total Calls, No of Agent, No of Topics, Calls Answered & Calls Resolved.
             we have selected different column from xl sheet for different cards to show counts for different condition.
            
-           
 
+ # Report Snapshot (Power BI DESKTOP)
+
+ 
+![Snap 1]()
+
+![Snap 2]()
 
 
         
