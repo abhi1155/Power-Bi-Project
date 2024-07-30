@@ -45,6 +45,17 @@ Through insightful visualizations and data-driven analysis, this project aims to
 Page 2
 <img width="605" alt="Screenshot 2024-07-17 203317" src="https://github.com/user-attachments/assets/f3c8daef-925e-45cb-a377-4e1a814948e3">
 
+# Conclusion & Insights
+1) Total calls Received is 5000, Calls Answered is 4054, Calls Resolved is 3646.
+2) Average Speed of Answer after considering All Agents & Topic is 67.52.
+3) Maximum Calls arrived in the month of January.
+4) Total Calls that are Not answered & Answered is 946 & 4054 Respectively.
+5) Total Calls That are Not Resolved & Resolved is 1354 & 3646 Respectively.
+6) Agent Martha Has Maximun average satisfaction rating.
+7) Agent Jim answered maximun calls & also resolved maximum Calls.
+
+
+
 
 
         
