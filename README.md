@@ -40,7 +40,7 @@ Through insightful visualizations and data-driven analysis, this project aims to
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Snap 1]()
+(<img width="611" alt="Screenshot 2024-07-17 203246" src="https://github.com/user-attachments/assets/018fff26-5f43-47b4-a790-a9c569fd5489">)
 
 ![Snap 2]()
 
